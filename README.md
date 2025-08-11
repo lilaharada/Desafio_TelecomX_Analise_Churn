@@ -1,4 +1,4 @@
-# Desafio TelecomX - Análise de Churn
+# Desafio TelecomX - Análise de Churn de Clientes
 ---
 
 ### Este desafio faz parte do curso de Data Science, do programa **Alura-ONE, T2025**, para que façamos uma análise de evasão de clientes.
